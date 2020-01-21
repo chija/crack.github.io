@@ -1,7 +1,7 @@
 ## C++ 合并文件
 
 ```
-   const string workspace =  "";
+        const string workspace =  "";
 	const string outputfilename = "";
 	const string prefix = "";
 	const int filenum = ;
